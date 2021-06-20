@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @roustam
+- 👀 I’m currently learing ReactJS and Redux
