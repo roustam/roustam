@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @roustam
-- 👀 I’m currently learing ReactJS and Redux
+Hey, my name is Roustam. I'm currently looking for a job.
